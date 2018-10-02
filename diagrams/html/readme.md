@@ -1,1 +1,1 @@
-Code for html/css/javascript diagram
+For html/css/javascript diagram
